@@ -1,0 +1,6 @@
+{
+  "name": "BRAHMO India Legal AI",
+  "description": "Template Engine with Firm Knowledge Injection and Indian Kanoon Integration for Criminal and Corporate Law.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
